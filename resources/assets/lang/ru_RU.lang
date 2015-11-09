@@ -1,0 +1,11 @@
+# WhitePower - Default Language - ru-RU
+
+item.itemDebugger.name=Откладчик (Off)
+item.itemDebugger.active.name=Debugger (On)
+item.itemIgnotTorrium.name=Ignot Torrium
+itemGroup.wpitem=White Power - Item
+itemGroup.wpcore=White Power - Core
+info.whitepower.lexicon.item.itemDebugger.pshift=Press §2Shift§r & right mouse button to §cenabled§r
+info.whitepower.lexicon.item.itemDebugger=Device §cDev§r
+info.whitepower.lexicon.item.itemDebugger.active=On Device §cDev§r
+info.whitepower.lexicon.item.itemIgnotTorrium=In power earth...

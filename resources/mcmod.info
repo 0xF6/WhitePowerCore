@@ -1,0 +1,32 @@
+[
+{
+	"modid": "WLib",
+	"name": "WhiteLib - Awa",
+	"description": "Managed power!",
+	"version": "1.2 Release",
+	"credits": "By Whisper",
+
+	"logoFile": "wp-lib.png",
+	"authors": [ "Whisper" ],
+	"dependencies": [
+		"MinecraftForge"
+	]
+},
+{
+	"modid": "WhitePowerBase",
+	"name": "WhitePower - Base",
+	"description": "Air Power, White Power!",
+	"version": "1.5 Prerelease 28",
+	"credits": "By Whisper",
+	"requiredMods": [
+   	   "WLib"
+  	],
+  	"dependencies": [
+  	    "WLib"
+  	],
+  	"dependants" : [],
+  	"useDependencyInformation": true,
+	"logoFile": "wp-core.png",
+	"authors": [ "Whisper" ]
+}
+]
