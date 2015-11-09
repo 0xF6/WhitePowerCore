@@ -10,3 +10,5 @@ gradle-app.setting
 .cc/wrapper/
 gradle/
 libs/
+
+gradlew.bat
