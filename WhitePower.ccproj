@@ -1,0 +1,16 @@
+%YAML 1.2
+---
+!CodeClimate.Deb.Project
+arraySniffer: [20, 226, 144, 148, 227, 56, 176, 73, 175, 232, 219, 226, 146, 142, 7, 229]
+versionRef: 28
+NameProject: WhitePower
+ProjectID: WhitePower
+versionMinor: 5
+GUIDProject: 9490e214-38e3-49b0-afe8-dbe2928e07e5
+Domen: ru.whisper.whitepower
+build: 325
+versionState: alpha
+versionForge: 10.13.0.1180
+versionMajor: 1
+versionMine: 1.7.10
+...

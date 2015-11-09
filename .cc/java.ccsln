@@ -1,0 +1,7 @@
+%YAML 1.2
+---
+!CodeClimate.Deb.Java
+JVMOpt: 
+  - ""
+PathHome: C:\Program Files\Java\jdk1.8.0_60
+...

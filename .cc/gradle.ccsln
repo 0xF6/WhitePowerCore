@@ -1,0 +1,10 @@
+%YAML 1.2
+---
+!CodeClimate.Deb.Gradle
+isOffline: True
+HomePath: C:\Users\Callada\.gradle
+isInfo: False
+Opt: null
+isDebug: False
+Target: build.gradlew.target
+...

@@ -1,0 +1,5 @@
+%YAML 1.2
+---
+!CodeClimate.Deb.IDEA
+ArtifacteTarget: C:\Minecraft\Mine\build\artifacte\WhitePower.jar
+...
